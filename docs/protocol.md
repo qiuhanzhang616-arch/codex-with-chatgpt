@@ -244,8 +244,8 @@ Rules:
 
 ## Project instructions
 
-New workspaces store durable identity in the ChatGPT Project settings
-(指令), not in every boot prompt. The Skill fills this template once.
+New workspaces store durable identity in the ChatGPT Project instructions,
+not in every boot prompt. The Skill fills this template once.
 Never put a public or temporary URL in the instructions — only the
 connector **name**.
 
