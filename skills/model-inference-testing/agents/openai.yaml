@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Inference Testing"
+  short_description: "Baseline and run reproducible inference test matrices"
+  default_prompt: "Use $model-inference-testing to confirm the test contract and baseline before designing or executing this model's test matrix."

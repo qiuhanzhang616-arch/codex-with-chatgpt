@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Inference Tuning"
+  short_description: "Baseline and tune inference performance with rollback"
+  default_prompt: "Use $model-inference-tuning to confirm tuning goals and a comparable baseline before designing candidate experiments."

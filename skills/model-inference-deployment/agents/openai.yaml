@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Inference Deployment"
+  short_description: "Baseline, deploy, validate, and roll back inference services"
+  default_prompt: "Use $model-inference-deployment to confirm deployment requirements and baselines before planning or implementing this model service."

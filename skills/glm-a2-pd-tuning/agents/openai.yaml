@@ -1,0 +1,4 @@
+interface:
+  display_name: "GLM A2 PD Tuning"
+  short_description: "Diagnose and tune GLM PD inference on Ascend A2"
+  default_prompt: "Use $glm-a2-pd-tuning to analyze this GLM deployment and design a rollback-safe tuning and validation plan."
