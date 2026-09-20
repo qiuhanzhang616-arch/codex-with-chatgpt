@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex with ChatGPT"
+  short_description: "Use ChatGPT for explicit planning and independent review"
+  default_prompt: "Use $codex-with-chatgpt to plan and review this task."
+policy:
+  allow_implicit_invocation: false
